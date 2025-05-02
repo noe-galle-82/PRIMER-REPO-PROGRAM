@@ -5,3 +5,5 @@ carpetas vacias
 ya linkie el repo,ya realice el push 
 ya clone el repo de github en mi repo local
 hago midicaciones para subir a github
+tuve un problema de 2 repos linkeados y debi
+usar chatgpt 
